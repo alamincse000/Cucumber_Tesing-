@@ -1,9 +1,9 @@
-# Cucumber_Tesing-
-An E-Commersite site testing using Cucumber frameworks.
+# Cucumber with BDD Testing
+An E-Commersite site testing using Cucumber frameworks and gherkin method.
 
 ## Here the fllowing task given bellow
 
-.An E-Commerce website login feature tested with proper validation using method cucumber framworks 
+.An E-Commerce website login feature tested with proper validation using method cucumber framworks and gherkin method
 
 ## Technology:
 
